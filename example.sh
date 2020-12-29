@@ -1,0 +1,1 @@
+echo "An example script"
